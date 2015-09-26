@@ -1,0 +1,26 @@
+{
+  "name": "webfile",
+  "version": "1.0.0",
+  "description": "HTTP endpoint that returns files from a directory",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbinary/webfile.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "web",
+    "cloud"
+  ],
+  "author": "Alexandre Bintz <alexandre@bintz.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbinary/webfile/issues"
+  },
+  "homepage": "https://github.com/alexbinary/webfile#readme"
+}
