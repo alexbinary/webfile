@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * PictureSource - HTTP endpoint that returns pictures from a directory
  *
